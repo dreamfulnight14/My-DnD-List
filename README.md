@@ -1,18 +1,15 @@
 ## Overview
+Built a list where items can be dragged and dropped.
 
-This application is a home assessment project built by David Wang.
+Considered maintainability and scalability and you can customize the items which are displayed in the list element.
 
-I have built a list where items can be dragged and dropped.
+Followed details of Figma design and the application is working on mobile as well.
 
-I considered maintainability and scalability and you can customize the items which are displayed in the list element.
-
-I followed details of Figma design and the application is working on mobile as well.
-
-I used the most recent version of Next.js and Tailwind CSS and also DnD-kit to implement drag-and-drop functionality.
+Used the most recent version of Next.js and Tailwind CSS and also DnD-kit to implement drag-and-drop functionality.
 
 The code is well structured and formatted. There are comments to help you understand the codebase.
 
-Further considersation(if I get more time):
+Further considersation:
 
 - Automated testing with Jest or React testing library
 - Use TypeScript
